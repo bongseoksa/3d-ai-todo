@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "start": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -11,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@babylonjs/core": "^7.41.1",
-    "@babylonjs/gui": "^7.41.1"
+    "@babylonjs/gui": "^7.41.1",
+    "vite": "^6.0.5"
   }
 }
