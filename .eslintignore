@@ -1,0 +1,16 @@
+**/_next
+**/.next
+**/next.config.js
+**/config.js
+**/next-env.d.ts
+**/jest.config.js
+**/jest.setup.js
+**/.yarn
+**/dist
+**/out
+**/scripts
+**/bin
+**/node_modules
+**/__tests__
+.eslintrc.js
+.pnp.*
